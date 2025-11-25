@@ -1,0 +1,36 @@
+# Database Configuration
+DB_HOST=localhost
+DB_NAME=smart_calendar
+DB_USER=root
+DB_PASS=
+
+# Application Settings
+APP_ENV=production
+APP_DEBUG=false
+APP_URL=http://localhost:3000
+
+# Security
+JWT_SECRET=your-jwt-secret-key-here
+ENCRYPTION_KEY=your-encryption-key-here
+
+# Session Configuration
+SESSION_TIMEOUT=3600
+SESSION_SECURE=true
+
+# Rate Limiting
+RATE_LIMIT_REQUESTS=100
+RATE_LIMIT_WINDOW=3600
+
+# AI Integration (Optional)
+OPENAI_API_KEY=your-openai-api-key
+AI_ASSISTANT_ENABLED=true
+
+# Email Configuration (Optional)
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=your-email@gmail.com
+SMTP_PASS=your-app-password
+
+# File Upload
+MAX_FILE_SIZE=5242880
+ALLOWED_FILE_TYPES=image/jpeg,image/png,image/gif
