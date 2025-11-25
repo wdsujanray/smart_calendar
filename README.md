@@ -1,5 +1,5 @@
 Develop By: wdsujanray
-sujanchandraray.netlify.app
+Website: sujanchandraray.netlify.app
 Support Email: sujanray1435@gmail.com
 Developer Name: Sujan Chandra Ray
 # smart_calendar
