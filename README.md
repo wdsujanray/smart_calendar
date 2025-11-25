@@ -1,7 +1,7 @@
 Develop By: wdsujanray
 sujanchandraray.netlify.app
 Support Email: sujanray1435@gmail.com
-Develop Name: Sujan Chandra Ray
+Developer Name: Sujan Chandra Ray
 # smart_calendar
 Smart Calendar with Interval Scheduling Algorithm
 # Smart Calendar - Intelligent Event Management System 🗓️
